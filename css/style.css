@@ -6,7 +6,8 @@
     border: 1px solid white;
     display: flex;
     justify-content: center;
-    padding: 5px;
+
+
 }
 
 .green-box {
@@ -16,7 +17,10 @@
         color: white;
         text-align: center;
         border: 1px solid #006cfa;
-        padding: 5px;
-        
+        margin: 7px;
+                
 }
 
+#spazio-bianco {
+    margin-top: 20px;
+}
